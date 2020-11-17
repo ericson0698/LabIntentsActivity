@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabIntentsActivity</string>
+    <string name="date">Date</string>
+    <string name="display">Display</string>
+    <string name="wifi">WIFI</string>
+    <string name="instagram">Instagram</string>
+    <string name="mozilla">Mozilla</string>
+</resources>

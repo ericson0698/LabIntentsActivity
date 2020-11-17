@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="openDate" type="id" />
+    <item name="openDis" type="id" />
+    <item name="openWifi" type="id" />
+    <item name="openInstagram" type="id" />
+    <item name="openMozila" type="id" />
+    <item name="etUsername" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="btn_submit" type="id" />
+</resources>
